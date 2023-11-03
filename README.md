@@ -128,3 +128,5 @@
 </h2>
 
 ### Для работы проекта необоходимо, чтобы база данных [songs.sqlite](https://github.com/An4nasik/player_project/blob/main/songs.sqlite) находилась в папке с исполняемым файлом 
+
+### Тот самый исполняемый [exe файл](https://disk.yandex.ru/d/7FqgTo1LZ-Gxuw)
